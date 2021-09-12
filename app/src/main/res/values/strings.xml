@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">I\'m Clock</string>
+    <string name="week_day_Mon">Mon.</string>
+    <string name="week_day_Tues">Tue.</string>
+    <string name="week_day_Wed">Wed.</string>
+    <string name="week_day_Thu">Thu.</string>
+    <string name="week_day_Fri">Fri.</string>
+    <string name="week_day_Sat">Sat.</string>
+    <string name="week_day_Sun">Sun.</string>
+    <string name="settings">settings</string>
+    <string name="title_activity_settings">settings</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_fullscreen2">FullscreenActivity2</string>
+</resources>

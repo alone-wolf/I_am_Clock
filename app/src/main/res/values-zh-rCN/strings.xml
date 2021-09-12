@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我，表</string>
+    <string name="week_day_Mon">星期一</string>
+    <string name="week_day_Tues">星期二</string>
+    <string name="week_day_Wed">星期三</string>
+    <string name="week_day_Thu">星期四</string>
+    <string name="week_day_Fri">星期五</string>
+    <string name="week_day_Sat">星期六</string>
+    <string name="week_day_Sun">星期日</string>
+    <string name="settings">设置</string>
+    <string name="title_activity_settings">设置</string>
+</resources>
